@@ -65,7 +65,3 @@ The app will start instantly and open in your default web browser at `http://loc
 - **[Plotly Express & Graph_Objects](https://plotly.com/python/)**: Interactive and declarative charting.
 - **[NumPy](https://numpy.org/)**: High-performance array operations for the Monte Carlo engine.
 - **[Pandas](https://pandas.pydata.org/)**: Data manipulation and tabular data formatting.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
